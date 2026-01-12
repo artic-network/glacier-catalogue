@@ -8,10 +8,38 @@
     "title-background": "#015C68",
     "title-foreground": "#21968B"
   },
-  "workflows": [
+  "projects": [
     {
-      "name": "amplicon-nf",
-      "repo": "artic-network/amplicon-nf"
+      "name": "general",
+      "description": "General workflows for ARTIC activities",
+      "icon": "artic.png"
+      "workflows": [
+        {
+          "name": "amplicon-nf",
+          "repo": "artic-network/amplicon-nf",
+          "version": "latest"
+        },
+        {
+          "name": "amplicon-nf",
+          "repo": "artic-network/amplicon-nf",
+          "version": "v1.0"
+        }
+      ]
+    },
+    {
+      "name": "MPXV",
+      "description": "Workflows for Mpox virus",
+      "workflows": [
+        {
+          "name": "amplicon-nf",
+          "repo": "artic-network/amplicon-nf",
+          "version": "latest"
+        },
+        {
+          "name": "squirrel-nf",
+          "repo": "artic-network/squirrel-nf",
+        }
+      ]
     }
   ]
 }
