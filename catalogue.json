@@ -2,11 +2,19 @@
   "name": "ARTIC-network",
   "description": "ARTIC network is a project funded by the Wellcome Trust for outbreak and epidemic response through genomic epidemiology."
   "icon": "artic.png"
-  "colour-scheme": {
-    "background": "#F7EECA",
+  "scheme": {
+    "background": "#F2F1E6",
     "foregound": "#02292E",
-    "title-background": "#015C68",
-    "title-foreground": "#21968B"
+    "font": "helvetica-neue-light:helvetica:san-serif",
+    "font-size": "12pt",
+    "title-background": "#005B68",
+    "title-foreground": "#F7EECA",
+    "title-font": "helvetica-neue-thin:helvetica:san-serif",
+    "title-font-size": "18pt",
+    "project-background": "#F7EECA",
+    "project-foregound": "#02292E",
+    "project-title-background": "#015C68",
+    "project-title-foreground": "#21968B"
   },
   "projects": [
     {
@@ -29,6 +37,13 @@
     {
       "name": "MPXV",
       "description": "Workflows for Mpox virus",
+      "icon": "mpxv.png",
+      "scheme": {
+        "project-background": "#F7EECA",
+        "project-foregound": "#005B68",
+        "project-title-background": "#BF4B43",
+        "project-title-foreground": "#E6D595"
+      },
       "workflows": [
         {
           "name": "amplicon-nf",
