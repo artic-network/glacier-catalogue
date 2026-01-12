@@ -1,0 +1,17 @@
+{
+  "name": "ARTIC-network",
+  "description": "ARTIC network is a project funded by the Wellcome Trust for outbreak and epidemic response through genomic epidemiology."
+  "icon": "icon.png"
+  "colour-scheme": {
+    "background": "#F7EECA",
+    "foregound": "#02292E",
+    "title-background": "#015C68",
+    "title-foreground": "#21968B"
+  },
+  "workflows": [
+    {
+      "name": "amplicon-nf",
+      "repo": "artic-network/amplicon-nf"
+    }
+  ]
+}
