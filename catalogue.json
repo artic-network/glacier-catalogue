@@ -16,7 +16,7 @@
     "project-title-background": "#015C68",
     "project-title-foreground": "#21968B"
   },
-  "projects": [
+  "sections": [
     {
       "name": "general",
       "description": "General workflows for ARTIC activities",
