@@ -1,7 +1,7 @@
 {
   "name": "ARTIC-network",
-  "description": "ARTIC network is a project funded by the Wellcome Trust for outbreak and epidemic response through genomic epidemiology."
-  "icon": "artic.png"
+  "description": "ARTIC network is a project funded by the Wellcome Trust for outbreak and epidemic response through genomic epidemiology.",
+  "icon": "artic.png",
   "scheme": {
     "background": "#F2F1E6",
     "foreground": "#02292E",
@@ -20,7 +20,7 @@
     {
       "name": "general",
       "description": "General workflows for ARTIC activities",
-      "icon": "artic.png"
+      "icon": "artic.png",
       "workflows": [
         {
           "name": "amplicon-nf",
@@ -52,7 +52,7 @@
         },
         {
           "name": "squirrel-nf",
-          "repo": "artic-network/squirrel-nf",
+          "repo": "artic-network/squirrel-nf"
         }
       ]
     }
