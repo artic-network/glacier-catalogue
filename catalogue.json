@@ -30,7 +30,7 @@
         {
           "name": "amplicon-nf",
           "repo": "artic-network/amplicon-nf",
-          "version": "v1.0"
+          "version": "0.6.1"
         }
       ]
     },
