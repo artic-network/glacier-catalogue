@@ -18,59 +18,59 @@
   },
   "materialTheme": {
     "palette": {
-      "mode": 'light',
+      "mode": "light",
       "primary": {
-        "main": '#005B68',
-        "dark": '#033940',
-        "light": '#19A699',
-        "contrastText": '#F2F1E6',
+        "main": "#005B68",
+        "dark": "#033940",
+        "light": "#19A699",
+        "contrastText": "#F2F1E6",
       },
       "secondary": {
-        "main": '#BF4B43',
-        "light": '#E06961',
-        "contrastText": '#F7EECA',
+        "main": "#BF4B43",
+        "light": "#E06961",
+        "contrastText": "#F7EECA",
       },
       "background": {
-        "default": '#e6d595',
-        "paper": '#f7eeca',
+        "default": "#e6d595",
+        "paper": "#f7eeca",
       },
       "error": {
-        "main": '#d95a47',
-        "contrastText": '#F2F1E6',
+        "main": "#d95a47",
+        "contrastText": "#F2F1E6",
       "},
       "warning": {
-        "main": '#F6A14C',
-        "contrastText": '#F2F1E6',
+        "main": "#F6A14C",
+        "contrastText": "#F2F1E6",
       "},
       "info": {
-        "main": '#016E85',
-        "contrastText": '#F2F1E6',
+        "main": "#016E85",
+        "contrastText": "#F2F1E6",
       "},
       "success": {
-        "main": '#40847D',
-        "contrastText": '#F2F1E6',
+        "main": "#40847D",
+        "contrastText": "#F2F1E6",
       "},
-      "divider": '#02292E',
+      "divider": "#02292E",
       "text": {
-        "primary": '#02292E',
-        "secondary": '#BF4B43',
-        "disabled": '#5A5F62',
+        "primary": "#02292E",
+        "secondary": "#BF4B43",
+        "disabled": "#5A5F62",
       "},
     },
     "typography": {
-      "fontFamily": 'Open Sans',
+      "fontFamily": "Open Sans",
     "},
     "overrides": {
       "MuiAppBar": {
         "colorInherit": {
-          "backgroundColor": '#689f38',
-          "color": '#fff',
+          "backgroundColor": "#689f38",
+          "color": "#fff",
         "},
       },
     },
     "props": {
       "MuiAppBar": {
-        "color": 'inherit',
+        "color": "inherit",
       },
     },
   },
