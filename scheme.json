@@ -1,14 +1,18 @@
 {
-  "background": "#F2F1E6",
-  "foreground": "#02292E",
-  "font-family": "Helvetica Neue Light, Helvetica, sans-serif",
-  "font-size": "12px",
-  "title-background": "#005B68",
-  "title-foreground": "#F7EECA",
-  "title-font-family": "Helvetica Neue Thin, Helvetica, sans-serif",
-  "title-font-size": "18px",
-  "project-background": "#F7EECA",
-  "project-foreground": "#02292E",
-  "project-title-background": "#015C68",
-  "project-title-foreground": "#21968B"
+    "background": "#F2F1E6",
+    "foreground": "#02292E",
+    "font-family": "Helvetica Neue Light, Helvetica, sans-serif",
+    "font-size": "12px",
+    "title-bg": "#005B68",
+    "title-fg": "#F7EECA",
+    "title-font-family": "Helvetica Neue Thin, Helvetica, sans-serif",
+    "title-font-size": "18px",
+    "section-bg": "#F7EECA",
+    "section-fg": "#02292E",
+    "section-title-bg": "#015C68",
+    "section-title-fg": "#21968B"
+    "workflow-bg": "#F7EECA",
+    "workflow-fg": "#02292E"
+    "control-bg": "#F7EECA",
+    "control-fg": "#02292E"
 }
