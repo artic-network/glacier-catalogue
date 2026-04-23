@@ -91,23 +91,13 @@
           "version": "latest"
         },
         {
-          "name": "raccoon-nf",
-          "repo": "artic-network/raccoon-nf",
-          "version": "latest"
-        },
-        {
-          "name": "raccoon-nf (repeat)",
-          "repo": "artic-network/raccoon-nf",
-          "version": "latest"
-        },
-        {
           "name": "raccoon-nf (bad URL)",
           "repo": "artic-network/raccoon_nf",
           "version": "latest"
         },
         {
-          "name": "raccoon-nf (Desperate-Dan version)",
-          "repo": "Desperate-Dan/raccoon-nf",
+          "name": "not a workflow",
+          "repo": "artic-network/peartree",
           "version": "latest"
         }
       ]
