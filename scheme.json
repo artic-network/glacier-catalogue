@@ -10,9 +10,9 @@
     "section-bg": "#F7EECA",
     "section-fg": "#02292E",
     "section-title-bg": "#015C68",
-    "section-title-fg": "#21968B"
+    "section-title-fg": "#21968B",
     "workflow-bg": "#F7EECA",
-    "workflow-fg": "#02292E"
+    "workflow-fg": "#02292E",
     "control-bg": "#F7EECA",
     "control-fg": "#02292E"
 }
