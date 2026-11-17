@@ -22,8 +22,8 @@
   },
   "sections": [
     {
-      "name": "workshop",
-      "description": "Workflows for ARTIC LHF Workshop 2026",
+      "name": "BDBV",
+      "description": "Workflows for BDBV 2026 outbreak",
       "icon": "artic.png",
       "workflows": [
         {
@@ -32,18 +32,9 @@
           "version": "latest"
         },
         {
-          "name": "raccoon-nf",
-          "repo": "artic-network/raccoon-nf",
-          "version": "latest"
-        },
-        {
-          "name": "raccoon-nf (bad URL)",
-          "repo": "artic-network/raccoon_nf",
-          "version": "latest"
-        },
-        {
-          "name": "not a workflow",
-          "repo": "artic-network/peartree",
+          "name": "bdbv-genepi-nf",
+          "description": "Phylogenetic and genomic epidemiology pipeline for BDBV",
+          "repo": "artic-network/bdbv-genepi-nf",
           "version": "latest"
         }
       ]
@@ -59,9 +50,9 @@
           "version": "latest"
         },
         {
-          "name": "amplicon-nf",
-          "repo": "artic-network/amplicon-nf",
-          "version": "0.6.1"
+          "name": "raccoon-nf",
+          "repo": "artic-network/raccoon-nf",
+          "version": "latest"
         }
       ]
     },
